@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-6-ramachandran&show_icons=true&locale=en&layout=compact" alt="rahul-6-ramachandran" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-6-ramachandran&show_icons=true&locale=en" alt="rahul-6-ramachandran" /></p>
+
